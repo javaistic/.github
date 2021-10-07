@@ -1,6 +1,6 @@
 <div align=center>
   
-  <img src="/img/readme.svg" height=250>
+  <img src="img/readme.svg" height=250>
 
   <h3> Javaistic - Java learning made simple</h3>
   Learn Java programming very fast and easily with Javaistic.
