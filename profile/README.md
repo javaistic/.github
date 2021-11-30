@@ -1,6 +1,10 @@
 <div align=center>
-  
-  <img src="/profile/img/readme.svg" height=250>
+
+<br>
+<br>
+
+![Javaixtic Dark Logo](/profile/img/logo-dark.svg#gh-dark-mode-only)
+![Javaistic Light Logo](/profile/img/logo-light.svg#gh-light-mode-only)
 
   <h3> Javaistic - Java learning made simple</h3>
   Learn Java programming very fast and easily with Javaistic.
