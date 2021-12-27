@@ -2,8 +2,8 @@
 
 <br>
 
-![Javaixtic Light Logo](/profile/img/logo-light.svg#gh-dark-mode-only)
-![Javaistic Dark Logo](/profile/img/logo-dark.svg#gh-light-mode-only)
+<img height=80 src="/profile/img/logo-light.svg#gh-dark-mode-only" alt="Javaistic Light Logo">
+<img height=80 src="/profile/img/logo-dark.svg#gh-light-mode-only" alt="Javaistic Dark Logo">
 
 <br>
 
